@@ -1,0 +1,101 @@
+site_id|site_name|corridor|region|time_bin|time_label|period_type|total_vol|low_speed_share_pct
+146|M1 Inbound - CH 17000|M1 Monash/West Gate Fwy|Greater Melbourne|07:00:00|07:00-07:15|AM Peak|100499|82.23
+146|M1 Inbound - CH 17000|M1 Monash/West Gate Fwy|Greater Melbourne|07:15:00|07:15-07:30|AM Peak|107600|82.01
+293|PFW 640m West of Kororoit Creek Road (IB)|Princes Fwy West|Greater Melbourne|07:45:00|07:45-08:00|AM Peak|107503|81.98
+292|PFW 1280m West of Kororoit Creek Road (IB)|Princes Fwy West|Greater Melbourne|07:30:00|07:30-07:45|AM Peak|115975|81.96
+293|PFW 640m West of Kororoit Creek Road (IB)|Princes Fwy West|Greater Melbourne|07:30:00|07:30-07:45|AM Peak|108438|81.94
+146|M1 Inbound - CH 17000|M1 Monash/West Gate Fwy|Greater Melbourne|07:45:00|07:45-08:00|AM Peak|111850|81.90
+146|M1 Inbound - CH 17000|M1 Monash/West Gate Fwy|Greater Melbourne|07:30:00|07:30-07:45|AM Peak|111131|81.88
+166|M1 Inbound - CH 18380|M1 Monash/West Gate Fwy|Greater Melbourne|07:00:00|07:00-07:15|AM Peak|105049|81.77
+292|PFW 1280m West of Kororoit Creek Road (IB)|Princes Fwy West|Greater Melbourne|07:45:00|07:45-08:00|AM Peak|114764|81.63
+142|M1 Inbound - CH 15860|M1 Monash/West Gate Fwy|Greater Melbourne|07:00:00|07:00-07:15|AM Peak|92796|81.54
+333|PFW 780m East of High Street/Newland St Entry Exit Ramps (OB)|Princes Fwy West|Greater Melbourne|16:45:00|16:45-17:00|PM Peak|144447|81.51
+333|PFW 780m East of High Street/Newland St Entry Exit Ramps (OB)|Princes Fwy West|Greater Melbourne|17:15:00|17:15-17:30|PM Peak|144946|81.47
+333|PFW 780m East of High Street/Newland St Entry Exit Ramps (OB)|Princes Fwy West|Greater Melbourne|16:15:00|16:15-16:30|PM Peak|147854|81.44
+166|M1 Inbound - CH 18380|M1 Monash/West Gate Fwy|Greater Melbourne|07:30:00|07:30-07:45|AM Peak|115998|81.42
+333|PFW 780m East of High Street/Newland St Entry Exit Ramps (OB)|Princes Fwy West|Greater Melbourne|16:30:00|16:30-16:45|PM Peak|145877|81.26
+146|M1 Inbound - CH 17000|M1 Monash/West Gate Fwy|Greater Melbourne|08:00:00|08:00-08:15|AM Peak|111161|81.15
+192|M1 Outbound - CH 24900|M1 Monash/West Gate Fwy|Greater Melbourne|15:45:00|15:45-16:00|PM Peak|151257|81.10
+293|PFW 640m West of Kororoit Creek Road (IB)|Princes Fwy West|Greater Melbourne|07:00:00|07:00-07:15|AM Peak|103437|81.05
+293|PFW 640m West of Kororoit Creek Road (IB)|Princes Fwy West|Greater Melbourne|07:15:00|07:15-07:30|AM Peak|107155|81.00
+292|PFW 1280m West of Kororoit Creek Road (IB)|Princes Fwy West|Greater Melbourne|07:15:00|07:15-07:30|AM Peak|114534|80.99
+225|M80 - WRR East of Kathryn St GB|M80 Ring Road|Greater Melbourne|16:45:00|16:45-17:00|PM Peak|101078|80.98
+36|M1 Inbound - Past Belgrave Hallam Rd|M1 Monash/West Gate Fwy|Greater Melbourne|07:45:00|07:45-08:00|AM Peak|94969|80.98
+36|M1 Inbound - Past Belgrave Hallam Rd|M1 Monash/West Gate Fwy|Greater Melbourne|07:30:00|07:30-07:45|AM Peak|94666|80.98
+230|M80 - WRR East of Merri Creek AB|M80 Ring Road|Greater Melbourne|07:30:00|07:30-07:45|AM Peak|9184|80.98
+292|PFW 1280m West of Kororoit Creek Road (IB)|Princes Fwy West|Greater Melbourne|07:00:00|07:00-07:15|AM Peak|110564|80.95
+333|PFW 780m East of High Street/Newland St Entry Exit Ramps (OB)|Princes Fwy West|Greater Melbourne|17:00:00|17:00-17:15|PM Peak|142159|80.93
+36|M1 Inbound - Past Belgrave Hallam Rd|M1 Monash/West Gate Fwy|Greater Melbourne|07:15:00|07:15-07:30|AM Peak|93827|80.91
+225|M80 - WRR East of Kathryn St GB|M80 Ring Road|Greater Melbourne|15:30:00|15:30-15:45|PM Peak|100084|80.89
+192|M1 Outbound - CH 24900|M1 Monash/West Gate Fwy|Greater Melbourne|15:30:00|15:30-15:45|PM Peak|155794|80.87
+225|M80 - WRR East of Kathryn St GB|M80 Ring Road|Greater Melbourne|16:15:00|16:15-16:30|PM Peak|100440|80.80
+17|M1 Outbound - Just After Stud Rd Entry Ramp|M1 Monash/West Gate Fwy|Greater Melbourne|17:15:00|17:15-17:30|PM Peak|152051|80.72
+293|PFW 640m West of Kororoit Creek Road (IB)|Princes Fwy West|Greater Melbourne|08:00:00|08:00-08:15|AM Peak|109299|80.71
+333|PFW 780m East of High Street/Newland St Entry Exit Ramps (OB)|Princes Fwy West|Greater Melbourne|17:30:00|17:30-17:45|PM Peak|141060|80.59
+142|M1 Inbound - CH 15860|M1 Monash/West Gate Fwy|Greater Melbourne|07:30:00|07:30-07:45|AM Peak|100421|80.58
+25|M1 Outbound - Under Power Rd Overpass|M1 Monash/West Gate Fwy|Greater Melbourne|17:30:00|17:30-17:45|PM Peak|149838|80.54
+166|M1 Inbound - CH 18380|M1 Monash/West Gate Fwy|Greater Melbourne|07:15:00|07:15-07:30|AM Peak|111878|80.53
+25|M1 Outbound - Under Power Rd Overpass|M1 Monash/West Gate Fwy|Greater Melbourne|17:15:00|17:15-17:30|PM Peak|152532|80.52
+166|M1 Inbound - CH 18380|M1 Monash/West Gate Fwy|Greater Melbourne|07:45:00|07:45-08:00|AM Peak|116922|80.49
+230|M80 - WRR East of Merri Creek AB|M80 Ring Road|Greater Melbourne|07:00:00|07:00-07:15|AM Peak|8687|80.48
+176|M1 Inbound - CH 20770|M1 Monash/West Gate Fwy|Greater Melbourne|07:00:00|07:00-07:15|AM Peak|94031|80.38
+332|PFW 310m East of High Street/Newland St Entry Exit Ramps (OB)|Princes Fwy West|Greater Melbourne|16:45:00|16:45-17:00|PM Peak|133080|80.27
+142|M1 Inbound - CH 15860|M1 Monash/West Gate Fwy|Greater Melbourne|07:15:00|07:15-07:30|AM Peak|98500|80.24
+333|PFW 780m East of High Street/Newland St Entry Exit Ramps (OB)|Princes Fwy West|Greater Melbourne|15:45:00|15:45-16:00|PM Peak|148459|80.17
+36|M1 Inbound - Past Belgrave Hallam Rd|M1 Monash/West Gate Fwy|Greater Melbourne|07:00:00|07:00-07:15|AM Peak|90184|80.13
+192|M1 Outbound - CH 24900|M1 Monash/West Gate Fwy|Greater Melbourne|16:15:00|16:15-16:30|PM Peak|147539|80.07
+332|PFW 310m East of High Street/Newland St Entry Exit Ramps (OB)|Princes Fwy West|Greater Melbourne|17:15:00|17:15-17:30|PM Peak|133103|80.05
+146|M1 Inbound - CH 17000|M1 Monash/West Gate Fwy|Greater Melbourne|08:15:00|08:15-08:30|AM Peak|116058|80.05
+311|PFW 780m East of High Street/Newland St Entry Exit Ramps (IB)|Princes Fwy West|Greater Melbourne|07:45:00|07:45-08:00|AM Peak|113917|80.05
+292|PFW 1280m West of Kororoit Creek Road (IB)|Princes Fwy West|Greater Melbourne|08:00:00|08:00-08:15|AM Peak|115863|80.02
+225|M80 - WRR East of Kathryn St GB|M80 Ring Road|Greater Melbourne|16:30:00|16:30-16:45|PM Peak|99494|80.02
+192|M1 Outbound - CH 24900|M1 Monash/West Gate Fwy|Greater Melbourne|16:30:00|16:30-16:45|PM Peak|140741|79.95
+176|M1 Inbound - CH 20770|M1 Monash/West Gate Fwy|Greater Melbourne|07:45:00|07:45-08:00|AM Peak|99367|79.95
+225|M80 - WRR East of Kathryn St GB|M80 Ring Road|Greater Melbourne|15:45:00|15:45-16:00|PM Peak|98319|79.94
+142|M1 Inbound - CH 15860|M1 Monash/West Gate Fwy|Greater Melbourne|07:45:00|07:45-08:00|AM Peak|99464|79.93
+25|M1 Outbound - Under Power Rd Overpass|M1 Monash/West Gate Fwy|Greater Melbourne|16:45:00|16:45-17:00|PM Peak|150963|79.92
+332|PFW 310m East of High Street/Newland St Entry Exit Ramps (OB)|Princes Fwy West|Greater Melbourne|16:15:00|16:15-16:30|PM Peak|136351|79.92
+142|M1 Inbound - CH 15860|M1 Monash/West Gate Fwy|Greater Melbourne|08:00:00|08:00-08:15|AM Peak|98965|79.92
+25|M1 Outbound - Under Power Rd Overpass|M1 Monash/West Gate Fwy|Greater Melbourne|16:30:00|16:30-16:45|PM Peak|150737|79.90
+25|M1 Outbound - Under Power Rd Overpass|M1 Monash/West Gate Fwy|Greater Melbourne|17:00:00|17:00-17:15|PM Peak|148958|79.87
+311|PFW 780m East of High Street/Newland St Entry Exit Ramps (IB)|Princes Fwy West|Greater Melbourne|07:30:00|07:30-07:45|AM Peak|115511|79.85
+333|PFW 780m East of High Street/Newland St Entry Exit Ramps (OB)|Princes Fwy West|Greater Melbourne|16:00:00|16:00-16:15|PM Peak|145851|79.77
+332|PFW 310m East of High Street/Newland St Entry Exit Ramps (OB)|Princes Fwy West|Greater Melbourne|17:00:00|17:00-17:15|PM Peak|130521|79.76
+312|PFW 125m East of Kororoit Creek Road (IB)|Princes Fwy West|Greater Melbourne|07:30:00|07:30-07:45|AM Peak|79468|79.76
+230|M80 - WRR East of Merri Creek AB|M80 Ring Road|Greater Melbourne|07:15:00|07:15-07:30|AM Peak|8934|79.75
+225|M80 - WRR East of Kathryn St GB|M80 Ring Road|Greater Melbourne|16:00:00|16:00-16:15|PM Peak|98135|79.73
+176|M1 Inbound - CH 20770|M1 Monash/West Gate Fwy|Greater Melbourne|07:30:00|07:30-07:45|AM Peak|100248|79.70
+166|M1 Inbound - CH 18380|M1 Monash/West Gate Fwy|Greater Melbourne|08:00:00|08:00-08:15|AM Peak|116552|79.67
+39|M1 Outbound - Belgrave-Hallam Rd on ramp|M1 Monash/West Gate Fwy|Greater Melbourne|16:45:00|16:45-17:00|PM Peak|92519|79.65
+192|M1 Outbound - CH 24900|M1 Monash/West Gate Fwy|Greater Melbourne|16:00:00|16:00-16:15|PM Peak|149866|79.60
+230|M80 - WRR East of Merri Creek AB|M80 Ring Road|Greater Melbourne|07:45:00|07:45-08:00|AM Peak|9409|79.57
+148|M1 Inbound - CH 17390|M1 Monash/West Gate Fwy|Greater Melbourne|07:00:00|07:00-07:15|AM Peak|100665|79.56
+42|M1 Inbound - Ernst Wanke Rd Entry Ramp|M1 Monash/West Gate Fwy|Greater Melbourne|07:45:00|07:45-08:00|AM Peak|88055|79.56
+17|M1 Outbound - Just After Stud Rd Entry Ramp|M1 Monash/West Gate Fwy|Greater Melbourne|16:45:00|16:45-17:00|PM Peak|148594|79.53
+17|M1 Outbound - Just After Stud Rd Entry Ramp|M1 Monash/West Gate Fwy|Greater Melbourne|17:00:00|17:00-17:15|PM Peak|148219|79.47
+312|PFW 125m East of Kororoit Creek Road (IB)|Princes Fwy West|Greater Melbourne|07:45:00|07:45-08:00|AM Peak|77737|79.46
+332|PFW 310m East of High Street/Newland St Entry Exit Ramps (OB)|Princes Fwy West|Greater Melbourne|16:30:00|16:30-16:45|PM Peak|135051|79.40
+310|PFW 310m East of High Street/Newland St Entry Exit Ramps (IB)|Princes Fwy West|Greater Melbourne|07:45:00|07:45-08:00|AM Peak|102293|79.40
+225|M80 - WRR East of Kathryn St GB|M80 Ring Road|Greater Melbourne|15:15:00|15:15-15:30|PM Peak|101364|79.40
+333|PFW 780m East of High Street/Newland St Entry Exit Ramps (OB)|Princes Fwy West|Greater Melbourne|17:45:00|17:45-18:00|PM Peak|138332|79.39
+42|M1 Inbound - Ernst Wanke Rd Entry Ramp|M1 Monash/West Gate Fwy|Greater Melbourne|07:30:00|07:30-07:45|AM Peak|86394|79.29
+17|M1 Outbound - Just After Stud Rd Entry Ramp|M1 Monash/West Gate Fwy|Greater Melbourne|17:30:00|17:30-17:45|PM Peak|148800|79.21
+312|PFW 125m East of Kororoit Creek Road (IB)|Princes Fwy West|Greater Melbourne|07:00:00|07:00-07:15|AM Peak|75479|79.21
+176|M1 Inbound - CH 20770|M1 Monash/West Gate Fwy|Greater Melbourne|07:15:00|07:15-07:30|AM Peak|98072|79.19
+332|PFW 310m East of High Street/Newland St Entry Exit Ramps (OB)|Princes Fwy West|Greater Melbourne|17:30:00|17:30-17:45|PM Peak|131064|79.17
+25|M1 Outbound - Under Power Rd Overpass|M1 Monash/West Gate Fwy|Greater Melbourne|17:45:00|17:45-18:00|PM Peak|146852|79.13
+310|PFW 310m East of High Street/Newland St Entry Exit Ramps (IB)|Princes Fwy West|Greater Melbourne|07:30:00|07:30-07:45|AM Peak|104316|79.13
+144|M1 Inbound - CH 16520|M1 Monash/West Gate Fwy|Greater Melbourne|07:00:00|07:00-07:15|AM Peak|101481|79.05
+25|M1 Outbound - Under Power Rd Overpass|M1 Monash/West Gate Fwy|Greater Melbourne|15:30:00|15:30-15:45|PM Peak|158521|79.00
+105|M1 Inbound - before Josephine avenue|M1 Monash/West Gate Fwy|Greater Melbourne|07:30:00|07:30-07:45|AM Peak|87079|79.00
+333|PFW 780m East of High Street/Newland St Entry Exit Ramps (OB)|Princes Fwy West|Greater Melbourne|15:30:00|15:30-15:45|PM Peak|148470|78.98
+311|PFW 780m East of High Street/Newland St Entry Exit Ramps (IB)|Princes Fwy West|Greater Melbourne|07:15:00|07:15-07:30|AM Peak|114726|78.98
+148|M1 Inbound - CH 17390|M1 Monash/West Gate Fwy|Greater Melbourne|07:15:00|07:15-07:30|AM Peak|107767|78.98
+25|M1 Outbound - Under Power Rd Overpass|M1 Monash/West Gate Fwy|Greater Melbourne|15:45:00|15:45-16:00|PM Peak|156096|78.96
+148|M1 Inbound - CH 17390|M1 Monash/West Gate Fwy|Greater Melbourne|07:30:00|07:30-07:45|AM Peak|111562|78.96
+225|M80 - WRR East of Kathryn St GB|M80 Ring Road|Greater Melbourne|17:15:00|17:15-17:30|PM Peak|102379|78.95
+17|M1 Outbound - Just After Stud Rd Entry Ramp|M1 Monash/West Gate Fwy|Greater Melbourne|15:45:00|15:45-16:00|PM Peak|153787|78.92
+25|M1 Outbound - Under Power Rd Overpass|M1 Monash/West Gate Fwy|Greater Melbourne|16:15:00|16:15-16:30|PM Peak|154576|78.90
+312|PFW 125m East of Kororoit Creek Road (IB)|Princes Fwy West|Greater Melbourne|07:15:00|07:15-07:30|AM Peak|78235|78.90
+39|M1 Outbound - Belgrave-Hallam Rd on ramp|M1 Monash/West Gate Fwy|Greater Melbourne|17:00:00|17:00-17:15|PM Peak|91275|78.89
+293|PFW 640m West of Kororoit Creek Road (IB)|Princes Fwy West|Greater Melbourne|08:15:00|08:15-08:30|AM Peak|112804|78.85

@@ -1,0 +1,298 @@
+site_id|site_name|corridor|region|latitude|longitude|is_core|total_volume|am_peak_volume|pm_peak_volume|peak_volume|wtd_avg_speed|peak_low_speed_share
+10|M1 Inbound - Before Eastlink Interchange|M1 Monash/West Gate Fwy|Greater Melbourne|-37.9558300|145.2193260|0|3472157|448644|661311|1109955|92.8|53.76
+101|M1 Inbound - RCB25164 Just After Koo Wee Rup Rd (FDS03b)|M1 Monash/West Gate Fwy|Greater Melbourne|-38.0920040|145.4813310|1|2611849|265652|608433|874085|98.2|24.28
+102|M1 Outbound - RCB25164 Just Before Koo Wee Rup Rd (FDS03a)|M1 Monash/West Gate Fwy|Greater Melbourne|-38.0916050|145.4813580|1|2467220|277303|551252|828555|99.3|16.72
+103|M1 Inbound - Koo Wee Rup|M1 Monash/West Gate Fwy|Greater Melbourne|-38.0920590|145.4871040|1|1403276|147606|321102|468708|98.3|20.80
+104|M1 Outbound - Koo Wee Rup|M1 Monash/West Gate Fwy|Greater Melbourne|-38.0917680|145.4871360|1|1377089|152048|327844|479892|100.1|10.51
+105|M1 Inbound - before Josephine avenue|M1 Monash/West Gate Fwy|Greater Melbourne|-38.0075470|145.2998090|1|6048852|712676|1166303|1878979|90.8|54.73
+106|M1 Outbound - Just before Narre Warren Nth Road|M1 Monash/West Gate Fwy|Greater Melbourne|-38.0074780|145.3001730|1|5469709|502942|1246380|1749322|95.5|40.59
+107|M80 Outbound - Keilor park off ramp (EB)|M80 Ring Road|Greater Melbourne|-37.7439900|144.8430890|1|8166283|939218|1620607|2559825|90.8|39.97
+108|M80 Outbound - Keilor Park Drive Exit (EB)|M80 Ring Road|Greater Melbourne|-37.7404750|144.8489080|1|6943890|803302|1387697|2190999|92.4|58.02
+109|M80 Inbound - Just before Keilor Park on ramp (WB)|M80 Ring Road|Greater Melbourne|-37.7407310|144.8492830|0|3967645|455969|818763|1274732|94.7|42.57
+11|M1 Outbound - Past Eastlink Interchange|M1 Monash/West Gate Fwy|Greater Melbourne|-37.9555670|145.2196520|0|3276066|320977|701433|1022410|91.3|49.93
+110|M80 Outbound - Beneath Gantry 153 (EB)|M80 Ring Road|Greater Melbourne|-37.7360850|144.8521240|1|6485933|707338|1371602|2078940|93.1|53.58
+111|M80 Inbound - Keilor park exit Altona bound (WB)|M80 Ring Road|Greater Melbourne|-37.7362430|144.8525940|0|4294608|514186|910383|1424569|95.5|40.60
+112|M80 Inbound - Keilor Park Drive Exit (WB)|M80 Ring Road|Greater Melbourne|-37.7327120|144.8541650|1|7533369|852036|1551979|2404015|94.0|51.26
+113|M80 Outbound - Before Calder Fwy exit (EB)|M80 Ring Road|Greater Melbourne|-37.7324920|144.8537520|0|5001872|579141|992342|1571483|90.4|44.26
+114|M80 Inbound - Altona bound EJ Whitten bridge (WB)|M80 Ring Road|Greater Melbourne|-37.7443890|144.8433680|0|7028551|796026|1463619|2259645|92.1|58.50
+116|Calder FWY Outbound - After gantry M2-138 (WB)|Other Metro Road|Greater Melbourne|-37.7349300|144.8962000|1|3066665|287003|788756|1075759|86.2|49.65
+117|Tullamarine FWY Outbound - After gantry M2-138 (WB)|Tullamarine Fwy|Greater Melbourne|-37.7347820|144.8963810|1|4186154|434617|889640|1324257|83.9|32.03
+118|Tullamarine FWY Inbound - Before gantry M2-138 (EB)|Tullamarine Fwy|Greater Melbourne|-37.7346460|144.8964010|1|3844073|492102|695631|1187733|82.7|40.57
+119|Tullamarine FWY Inbound - Before gantry M2-141 (EB)|Tullamarine Fwy|Greater Melbourne|-37.7341460|144.8936580|1|3841033|491972|695230|1187202|81.1|46.91
+12|M1 Inbound - Stud Rd Entry Ramp Bullnose|M1 Monash/West Gate Fwy|Greater Melbourne|-37.9587980|145.2234570|1|7375386|985141|1390255|2375396|94.4|43.79
+120|Tullamarine FWY Outbound - Before gantry Tul-508 (WB)|Tullamarine Fwy|Greater Melbourne|-37.7331180|144.8914630|1|4187283|434555|890246|1324801|82.8|34.91
+121|Tullamarine FWY Outbound - Before gantry M2-146 (NB)|Tullamarine Fwy|Greater Melbourne|-37.7307710|144.8905230|1|4185868|434590|890074|1324664|80.4|18.74
+122|Tullamarine FWY Inbound - After gantry M2-146 (SB)|Tullamarine Fwy|Greater Melbourne|-37.7307580|144.8907330|1|6048926|732221|1114790|1847011|76.1|39.77
+123|Tullamarine FWY Inbound - After English St exit ramp (SB)|Tullamarine Fwy|Greater Melbourne|-37.7269740|144.8910490|1|5614767|694548|994763|1689311|78.7|32.14
+124|Tullamarine FWY Outbound - English St exit ramp Bullnose (NB)|Tullamarine Fwy|Greater Melbourne|-37.7270890|144.8908210|1|5471798|556135|1151947|1708082|81.2|48.12
+125|Tullamarine FWY Outbound - Before English St entry (NB)|Tullamarine Fwy|Greater Melbourne|-37.7236330|144.8916080|1|5478474|556749|1152458|1709207|80.0|58.91
+126|Tullamarine FWY Inbound - After English St exit (SB)|Tullamarine Fwy|Greater Melbourne|-37.7236350|144.8916090|1|5599013|692761|993426|1686187|82.4|41.06
+127|Tullamarine FWY Outbound - After English St exit ramp (NB)|Tullamarine Fwy|Greater Melbourne|-37.7205060|144.8919650|1|6059149|609872|1298722|1908594|80.4|53.53
+128|Tullamarine FWY Inbound - After Wirraway Rd On Ramp (SB)|Tullamarine Fwy|Greater Melbourne|-37.7205210|144.8921750|1|6212184|778887|1117956|1896843|80.1|55.76
+129|Tullamarine FWY Inbound - Wirraway Rd On Ramp Bullnose (SB)|Tullamarine Fwy|Greater Melbourne|-37.7167490|144.8927510|1|5531345|698418|970747|1669165|83.7|38.64
+13|M1 Outbound - Stud Road On Ramp|M1 Monash/West Gate Fwy|Greater Melbourne|-37.9585520|145.2237730|1|7010369|687445|1544188|2231633|89.3|56.67
+130|Tullamarine FWY Outbound - Before Wirraway Rd Overpass (NB)|Tullamarine Fwy|Greater Melbourne|-37.7150620|144.8921070|1|5501498|552126|1185562|1737688|82.1|45.74
+131|Tullamarine FWY Inbound - After Wirraway Rd Exit (SB)|Tullamarine Fwy|Greater Melbourne|-37.7139550|144.8928320|1|5255060|641354|934033|1575387|88.7|36.41
+132|Tullamarine FWY Inbound - Before Wirraway Rd Exit (SB)|Tullamarine Fwy|Greater Melbourne|-37.7113930|144.8916040|1|5488027|700631|954081|1654712|88.7|57.21
+133|Tullamarine FWY Outbound - Before M80 Exit (NB)|Tullamarine Fwy|Greater Melbourne|-37.7114440|144.8908920|1|4782788|410820|1119204|1530024|80.9|52.83
+134|Tullamarine FWY Inbound - After WRR Interchange (SB)|Tullamarine Fwy|Greater Melbourne|-37.7069280|144.8901610|1|3621371|444494|592396|1036890|94.4|49.01
+135|Tullamarine FWY Outbound - Before M80 Overpass (NB)|Tullamarine Fwy|Greater Melbourne|-37.7067860|144.8896880|0|3475271|364786|697474|1062260|85.7|50.64
+136|Tullamarine FWY Inbound - Before WRR Interchange (SB)|Tullamarine Fwy|Greater Melbourne|-37.7029670|144.8891940|1|2866903|371282|446962|818244|95.0|44.57
+137|Tullamarine FWY Outbound - After M80 Interchange (NB)|Tullamarine Fwy|Greater Melbourne|-37.7009450|144.8880960|1|5477343|558448|1059370|1617818|80.2|54.18
+138|Tullamarine FWY Inbound - Before WRR Interchange (SB)|Tullamarine Fwy|Greater Melbourne|-37.6981090|144.8875590|0|3574769|441549|584900|1026449|93.5|28.89
+139|Tullamarine FWY Outbound - After Carrick Dr (NB)|Tullamarine Fwy|Greater Melbourne|-37.6981480|144.8873580|0|5894134|616826|1128096|1744922|80.3|50.66
+14|M1 Inbound - Stud Rd off ramp|M1 Monash/West Gate Fwy|Greater Melbourne|-37.9620212|145.2279800|1|7276688|971075|1374170|2345245|95.2|40.48
+140|Tullamarine FWY Inbound - Before Carrick Dr (SB)|Tullamarine Fwy|Greater Melbourne|-37.6950660|144.8858550|1|2635254|289976|436808|726784|92.7|31.64
+141|Tullamarine FWY Outbound - Before Mickleham Rd Exit (NB)|Tullamarine Fwy|Greater Melbourne|-37.6951510|144.8856680|1|5930862|621189|1130766|1751955|79.3|50.38
+142|M1 Inbound - CH 15860|M1 Monash/West Gate Fwy|Greater Melbourne|-37.8843465|145.0934516|1|6681559|793098|1328594|2121692|88.8|64.72
+143|M1 Outbound - CH 15860|M1 Monash/West Gate Fwy|Greater Melbourne|-37.8839710|145.0935320|1|6627672|680976|1415884|2096860|92.3|61.12
+144|M1 Inbound - CH 16520|M1 Monash/West Gate Fwy|Greater Melbourne|-37.8857851|145.1010754|1|8151352|907221|1670008|2577229|90.4|58.82
+145|M1 Outbound - CH 16520|M1 Monash/West Gate Fwy|Greater Melbourne|-37.8853602|145.1011766|1|8341065|871417|1721090|2592507|90.4|44.52
+146|M1 Inbound - CH 17000|M1 Monash/West Gate Fwy|Greater Melbourne|-37.8866007|145.1063984|1|8127476|898539|1666458|2564997|85.9|69.30
+147|M1 Outbound - CH 17000|M1 Monash/West Gate Fwy|Greater Melbourne|-37.8861410|145.1065150|1|8331965|868783|1719395|2588178|91.1|64.16
+148|M1 Inbound - CH 17390|M1 Monash/West Gate Fwy|Greater Melbourne|-37.8874305|145.1106778|1|8101437|900727|1644489|2545216|87.9|61.41
+149|M1 Outbound - CH 17390|M1 Monash/West Gate Fwy|Greater Melbourne|-37.8870420|145.1108716|1|8342164|870220|1722023|2592243|91.5|63.82
+15|M1 Outbound - First after Stud Rd onramp|M1 Monash/West Gate Fwy|Greater Melbourne|-37.9616730|145.2283660|0|5889366|570671|1315810|1886481|86.0|66.44
+151|Tullamarine FWY Outbound - Mickleham Rd Exit Bullnose (NB)|Tullamarine Fwy|Greater Melbourne|-37.6925820|144.8837150|0|243337|29063|37420|66483|83.4|35.58
+153|Tullamarine FWY Outbound - After Mickleham Rd Exit (NB)|Tullamarine Fwy|Greater Melbourne|-37.6885460|144.8797960|0|347723|40062|67317|107379|91.5|37.48
+155|Tullamarine FWY Outbound - After Mickleham Rd Exit (NB)|Tullamarine Fwy|Greater Melbourne|-37.6861860|144.8768330|0|3350391|375516|598468|973984|82.5|40.36
+156|Tullamarine FWY Inbound - Before Mickleham Rd (SB)|Tullamarine Fwy|Greater Melbourne|-37.6834220|144.8737010|1|3556132|511296|386204|897500|79.5|34.68
+157|Tullamarine FWY Outbound - Before Airport Long-Term (NB)|Tullamarine Fwy|Greater Melbourne|-37.6836980|144.8736970|1|4465321|500404|794429|1294833|75.9|42.56
+158|Tullamarine FWY Inbound - A1 Airport Parking (SB)|Tullamarine Fwy|Greater Melbourne|-37.6805140|144.8699850|1|4870189|533907|823145|1357052|83.4|36.93
+159|Tullamarine FWY Outbound - Before Terminal Dr (NB)|Tullamarine Fwy|Greater Melbourne|-37.6805660|144.8697250|0|154839|10294|40085|50379|80.0|19.67
+16|M1 Inbound - Just Before Stud Rd Exit Ramp|M1 Monash/West Gate Fwy|Greater Melbourne|-37.9640370|145.2308710|1|8677915|1130329|1661643|2791972|92.8|53.21
+160|Tullamarine FWY Inbound - Apac Dr entry ramp bullnose (SB)|Tullamarine Fwy|Greater Melbourne|-37.6772820|144.8649130|1|3579518|459967|556755|1016722|84.6|33.37
+161|Tullamarine FWY Outbound - Before Terminal Dr Exit (NB)|Tullamarine Fwy|Greater Melbourne|-37.6772870|144.8644780|1|3112859|344983|614649|959632|80.7|14.61
+162|Tullamarine FWY Outbound - After Terminal Dr Exit (NB)|Tullamarine Fwy|Greater Melbourne|-37.6755420|144.8591210|1|866523|63209|273370|336579|89.0|30.13
+163|Calder FWY Inbound - Before Green Gully Rd Underpass (SB)|Other Metro Road|Greater Melbourne|-37.7099010|144.8253180|0|1863988|262589|314272|576861|88.9|52.37
+166|M1 Inbound - CH 18380|M1 Monash/West Gate Fwy|Greater Melbourne|-37.8918054|145.1204133|1|8784658|944159|1825584|2769743|86.3|69.07
+167|M1 Outbound - CH 18380|M1 Monash/West Gate Fwy|Greater Melbourne|-37.8913777|145.1206807|1|9124803|972065|1899037|2871102|96.3|38.48
+168|M1 Inbound - CH 18990|M1 Monash/West Gate Fwy|Greater Melbourne|-37.8926660|145.1272235|0|6110353|652252|1236377|1888629|89.7|55.76
+169|M1 Outbound - CH 18980|M1 Monash/West Gate Fwy|Greater Melbourne|-37.8922334|145.1272867|1|8632738|884152|1820458|2704610|91.6|41.35
+17|M1 Outbound - Just After Stud Rd Entry Ramp|M1 Monash/West Gate Fwy|Greater Melbourne|-37.9637500|145.2312120|1|8401129|832058|1818994|2651052|87.9|66.86
+170|M1 Inbound - CH 19450|M1 Monash/West Gate Fwy|Greater Melbourne|-37.8932810|145.1325106|1|8216817|869665|1678771|2548436|89.1|55.82
+171|M1 Outbound - CH 19450|M1 Monash/West Gate Fwy|Greater Melbourne|-37.8928255|145.1330004|0|8403289|865452|1778104|2643556|91.2|42.91
+172|M1 Inbound - CH 19890|M1 Monash/West Gate Fwy|Greater Melbourne|-37.8937692|145.1374065|1|8571825|895538|1762324|2657862|87.2|63.16
+173|M1 Outbound - CH 19890|M1 Monash/West Gate Fwy|Greater Melbourne|-37.8933454|145.1374609|1|9107317|943446|1931997|2875443|90.9|64.08
+174|M1 Inbound - CH 20300|M1 Monash/West Gate Fwy|Greater Melbourne|-37.8943428|145.1420023|0|7031373|738890|1425182|2164072|88.6|59.17
+175|M1 Outbound - CH 20300|M1 Monash/West Gate Fwy|Greater Melbourne|-37.8939247|145.1422485|1|8122062|805978|1761351|2567329|93.4|51.92
+176|M1 Inbound - CH 20770|M1 Monash/West Gate Fwy|Greater Melbourne|-37.8961930|145.1465715|1|7773297|815480|1580313|2395793|87.8|67.53
+177|M1 Outbound - CH 20770|M1 Monash/West Gate Fwy|Greater Melbourne|-37.8958502|145.1468698|1|8105194|805138|1759104|2564242|95.1|41.98
+178|M1 Inbound - CH 21190|M1 Monash/West Gate Fwy|Greater Melbourne|-37.8990859|145.1495165|1|8259710|869658|1687181|2556839|83.5|63.88
+179|M1 Outbound - CH 21190|M1 Monash/West Gate Fwy|Greater Melbourne|-37.8988315|145.1500393|1|8544950|852652|1848006|2700658|95.5|38.98
+18|M1 Inbound - After Heatherton Rd Entry Ramp|M1 Monash/West Gate Fwy|Greater Melbourne|-37.9664740|145.2340610|1|8595667|1106790|1650298|2757088|94.1|45.66
+180|M1 Inbound - CH 21780|M1 Monash/West Gate Fwy|Greater Melbourne|-37.9034908|145.1533104|1|7294064|767040|1491002|2258042|84.5|64.79
+181|M1 Outbound - CH 21780|M1 Monash/West Gate Fwy|Greater Melbourne|-37.9033233|145.1537608|1|7533110|733011|1653788|2386799|94.6|41.83
+182|M1 Inbound - CH 22300|M1 Monash/West Gate Fwy|Greater Melbourne|-37.9068330|145.1575367|1|7269784|766144|1475393|2241537|87.0|59.61
+183|M1 Outbound - CH 22300|M1 Monash/West Gate Fwy|Greater Melbourne|-37.9066045|145.1579420|1|7532195|732816|1653227|2386043|94.5|40.41
+184|M1 Inbound - CH 22800|M1 Monash/West Gate Fwy|Greater Melbourne|-37.9098490|145.1617320|1|7282674|764290|1490484|2254774|86.6|61.71
+185|M1 Outbound - CH 22800|M1 Monash/West Gate Fwy|Greater Melbourne|-37.9096430|145.1622010|1|7530368|732150|1650612|2382762|93.8|45.53
+186|M1 Inbound - CH 23280|M1 Monash/West Gate Fwy|Greater Melbourne|-37.9127982|145.1655249|1|8250313|895996|1684409|2580405|87.2|61.28
+187|M1 Outbound - CH 23270|M1 Monash/West Gate Fwy|Greater Melbourne|-37.9126180|145.1659931|1|8497736|828690|1851781|2680471|91.7|54.96
+188|M1 Inbound - CH 23810|M1 Monash/West Gate Fwy|Greater Melbourne|-37.9166217|145.1694704|1|8217691|883947|1681019|2564966|87.6|57.90
+189|M1 Outbound - CH 23810|M1 Monash/West Gate Fwy|Greater Melbourne|-37.9163753|145.1698399|1|8503534|827860|1857641|2685501|91.4|58.15
+19|M1 Outbound - Before Heatherton Rd Exit Ramp|M1 Monash/West Gate Fwy|Greater Melbourne|-37.9662820|145.2344360|0|5064970|472905|1106857|1579762|87.0|69.12
+190|M1 Inbound - CH 24210|M1 Monash/West Gate Fwy|Greater Melbourne|-37.9193811|145.1722786|1|7502176|785733|1544488|2330221|89.5|50.21
+191|M1 Outbound - CH 24340|M1 Monash/West Gate Fwy|Greater Melbourne|-37.9199560|145.1736570|1|7615383|758574|1647822|2406396|91.1|57.69
+192|M1 Outbound - CH 24900|M1 Monash/West Gate Fwy|Greater Melbourne|-37.9236050|145.1781470|1|8163216|806969|1777764|2584733|88.3|68.63
+193|M1 Inbound - CH 24720|M1 Monash/West Gate Fwy|Greater Melbourne|-37.9228170|145.1763850|0|7164277|755006|1465932|2220938|91.5|45.27
+194|M1 Inbound - CH 25280|M1 Monash/West Gate Fwy|Greater Melbourne|-37.9263840|145.1808583|1|8468273|923653|1712711|2636364|91.1|49.30
+195|M1 Inbound - CH 25820|M1 Monash/West Gate Fwy|Greater Melbourne|-37.9298777|145.1852458|1|7950077|811358|1626439|2437797|93.1|44.20
+196|M1 Outbound - CH 25820|M1 Monash/West Gate Fwy|Greater Melbourne|-37.9295730|145.1856170|1|8247820|810352|1804305|2614657|93.6|52.93
+197|M1 Inbound - CH 26380|M1 Monash/West Gate Fwy|Greater Melbourne|-37.9333573|145.1896036|1|7772477|860969|1562130|2423099|92.0|47.02
+198|M1 Outbound - CH 26380|M1 Monash/West Gate Fwy|Greater Melbourne|-37.9330757|145.1898917|1|5737993|547197|1227236|1774433|92.7|51.64
+199|M1 Inbound - CH 26900|M1 Monash/West Gate Fwy|Greater Melbourne|-37.9366070|145.1940020|1|7784530|868004|1562339|2430343|91.6|52.16
+2|M1 IB west of Eastlink|M1 Monash/West Gate Fwy|Greater Melbourne|-37.9437820|145.2026800|1|5958224|709230|1115871|1825101|94.6|38.14
+20|M1 Inbound - Heatherton Rd Entry Ramp Bullnose|M1 Monash/West Gate Fwy|Greater Melbourne|-37.9708190|145.2367050|1|7003460|874402|1359091|2233493|95.7|40.28
+200|M1 Outbound - CH 26830|M1 Monash/West Gate Fwy|Greater Melbourne|-37.9361304|145.1933413|1|5715461|539854|1220887|1760741|93.3|45.37
+202|M1 Outbound - CH 27230|M1 Monash/West Gate Fwy|Greater Melbourne|-37.9386520|145.1965870|1|5744140|547470|1223517|1770987|92.7|46.70
+203|M1 Outbound - CH 27560|M1 Monash/West Gate Fwy|Greater Melbourne|-37.9406704|145.1991831|1|5739671|547176|1221077|1768253|92.2|48.84
+204|M1 Inbound - CH 27700|M1 Monash/West Gate Fwy|Greater Melbourne|-37.9418230|145.2001880|0|5237073|630697|970381|1601078|94.9|37.58
+21|M1 Outbound - Heatherton Rd Exit Ramp|M1 Monash/West Gate Fwy|Greater Melbourne|-37.9708170|145.2371400|1|7487342|761158|1575583|2336741|88.4|58.28
+213|M1 Inbound - CH 48683|M1 Monash/West Gate Fwy|Greater Melbourne|-38.0634350|145.3718730|1|3378866|431130|665212|1096342|97.9|26.59
+214|M1 Outbound - CH 48630|M1 Monash/West Gate Fwy|Greater Melbourne|-38.0632190|145.3720900|1|3348515|300200|831573|1131773|99.3|21.85
+215|M1 Inbound - CH 49145|M1 Monash/West Gate Fwy|Greater Melbourne|-38.0662870|145.3762560|1|4521447|564097|928659|1492756|97.0|34.95
+216|M1 Outbound - CH 49145|M1 Monash/West Gate Fwy|Greater Melbourne|-38.0660410|145.3765440|1|4363817|423013|1064861|1487874|98.0|31.36
+217|M1 Outbound - CH 49768|M1 Monash/West Gate Fwy|Greater Melbourne|-38.0690440|145.3824070|1|4341207|423384|1061156|1484540|97.4|33.23
+219|M1 Outbound - CH 51794|M1 Monash/West Gate Fwy|Greater Melbourne|-38.0745570|145.4041580|1|3957951|392760|950843|1343603|98.1|28.09
+22|M1 Inbound - Heatherton Rd Exit Ramp|M1 Monash/West Gate Fwy|Greater Melbourne|-37.9749360|145.2378940|1|7993242|1031921|1531149|2563070|96.9|33.37
+220|M1 Outbound - CH 52296|M1 Monash/West Gate Fwy|Greater Melbourne|-38.0753780|145.4099250|1|3967410|392536|954284|1346820|99.3|53.40
+221|M1 Outbound - CH 52918|M1 Monash/West Gate Fwy|Greater Melbourne|-38.0763650|145.4168680|1|3962248|391861|951438|1343299|97.2|34.29
+222|M1 Outbound - CH 25400|M1 Monash/West Gate Fwy|Greater Melbourne|-37.9268297|145.1820719|1|8235988|811567|1807775|2619342|92.7|57.31
+223|M80 - WRR Kathryn St GB|M80 Ring Road|Greater Melbourne|-37.6917429|144.9610151|0|5297616|548461|1152450|1700911|88.4|60.37
+225|M80 - WRR East of Kathryn St GB|M80 Ring Road|Greater Melbourne|-37.6913860|144.9649160|1|5493644|572606|1194245|1766851|89.6|71.89
+226|M80 - WRR East of Kathryn St AB|M80 Ring Road|Greater Melbourne|-37.6917120|144.9649950|1|5240636|581533|1043340|1624873|91.3|56.72
+227|M80 - WRR East of Mahoneys Rd GB|M80 Ring Road|Greater Melbourne|-37.6908310|144.9697790|0|1489674|137455|323675|461130|94.9|46.60
+229|M80 - WRR East of Merri Creek GB|M80 Ring Road|Greater Melbourne|-37.6902170|144.9756150|1|6596535|663096|1395835|2058931|93.9|50.61
+23|M1 Outbound - Heatherton Rd Entry Ramp|M1 Monash/West Gate Fwy|Greater Melbourne|-37.9747510|145.2383850|1|7565095|768455|1603315|2371770|87.7|59.13
+230|M80 - WRR East of Merri Creek AB|M80 Ring Road|Greater Melbourne|-37.6905970|144.9756569|1|4019112|83540|1350666|1434206|91.9|59.19
+231|M80 - WRR East of Industrial Ave GB|M80 Ring Road|Greater Melbourne|-37.6896520|144.9814530|0|3501445|354759|855344|1210103|96.0|43.54
+233|M80 - WRR East of M31 overpass GB|M80 Ring Road|Greater Melbourne|-37.6891230|144.9865600|1|4250041|425793|1046737|1472530|93.9|53.46
+234|M80 - WRR East of M31 overpass AB|M80 Ring Road|Greater Melbourne|-37.6894024|144.9868195|1|4158185|553428|817337|1370765|91.4|54.14
+236|M80 - WRR West of Blaxland Ave AB|M80 Ring Road|Greater Melbourne|-37.6889981|144.9906115|1|3332871|453517|651102|1104619|95.2|36.03
+239|M80 - WRR/Edgars Rd overpass GB|M80 Ring Road|Greater Melbourne|-37.6870670|145.0018990|1|4291888|464242|993573|1457815|93.5|54.70
+24|M1 Inbound - Under Power Rd Overpass|M1 Monash/West Gate Fwy|Greater Melbourne|-37.9780110|145.2405290|1|9193527|1167658|1792756|2960414|95.6|42.97
+240|M80 - WRR/Edgars Rd overpass AB|M80 Ring Road|Greater Melbourne|-37.6873704|145.0019809|1|4221412|535668|842467|1378135|96.3|35.40
+241|Mountain Hwy NR Violen St (EB)|Other Metro Road|Greater Melbourne|-37.8421020|145.2584920|1|1753036|207059|417714|624773|55.5|48.78
+242|Mountain Hwy NR Violen St (WB)|Other Metro Road|Greater Melbourne|-37.8423190|145.2587280|1|1681683|227091|381526|608617|57.0|34.48
+243|Burwood Hwy (EB)|Other Metro Road|Greater Melbourne|-37.8511690|145.1263910|1|1788133|153265|447609|600874|58.1|60.03
+244|Burwood Hwy (WB)|Other Metro Road|Greater Melbourne|-37.8514380|145.1260520|1|1581894|241404|296555|537959|60.0|51.46
+245|Nepean Hwy NR Arnot St (NB)|Other Metro Road|Greater Melbourne|-37.9120290|145.0138160|1|3173641|438005|643799|1081804|74.0|52.57
+246|Nepean Hwy NR Arnot St (SB)|Other Metro Road|Greater Melbourne|-37.9120020|145.0143630|1|3014553|296125|676125|972250|69.1|53.03
+247|Sydney Rd and Jukes Rd (NB)|Other Metro Road|Greater Melbourne|-37.7007430|144.9598170|1|2564111|243062|512122|755184|51.3|49.81
+248|Sydney Rd and Jukes Rd (SB)|Other Metro Road|Greater Melbourne|-37.7013480|144.9602490|1|2399757|255520|461890|717410|52.5|46.89
+249|Princes Hwy and James St (EB)|Other Metro Road|Greater Melbourne|-37.9792260|145.2080860|1|1302861|126993|307904|434897|57.1|37.42
+25|M1 Outbound - Under Power Rd Overpass|M1 Monash/West Gate Fwy|Greater Melbourne|-37.9778050|145.2409110|1|8647937|866038|1835084|2701122|85.5|70.09
+250|Princes Hwy and James St (WB)|Other Metro Road|Greater Melbourne|-37.9787050|145.2071550|1|1156093|131122|262460|393582|54.9|45.98
+251|Princes Hwy and Federation Trail (EB)|Other Metro Road|Greater Melbourne|-37.8191580|144.8399760|1|1996852|257625|397199|654824|68.2|48.72
+252|Princes Hwy and Federation Trail (WB)|Other Metro Road|Greater Melbourne|-37.8193960|144.8401290|1|1888271|177187|414418|591605|71.5|39.43
+253|Plenty Rd NR Larundel (NB)|Other Metro Road|Greater Melbourne|-37.7104430|145.0488350|1|2339527|186296|551887|738183|57.8|59.34
+254|Plenty Rd NR Larundel (SB)|Other Metro Road|Greater Melbourne|-37.7106500|145.0491520|1|2315977|348925|390169|739094|61.3|37.64
+255|Fitzgerald Rd and Federation trail (NB)|Other Metro Road|Greater Melbourne|-37.8356210|144.7837060|1|746608|98729|111798|210527|66.9|52.88
+256|Fitzgerald Rd and Federation trail (SB)|Other Metro Road|Greater Melbourne|-37.8358820|144.7839320|1|809330|73944|208497|282441|64.0|67.08
+257|Princes Hwy West (EB)|Other Metro Road|Greater Melbourne|-37.8856670|144.6979720|1|1506560|179278|264051|443329|66.1|45.75
+258|Princes Hwy West (WB)|Other Metro Road|Greater Melbourne|-37.8854940|144.6989020|1|1617156|154795|378114|532909|63.6|67.14
+259|Sneydes Rd (EB)|Other Metro Road|Greater Melbourne|-37.8975030|144.7123460|1|1042584|89262|281953|371215|63.9|27.84
+26|M1 Inbound - Before Heatherton Rd Exit|M1 Monash/West Gate Fwy|Greater Melbourne|-37.9817850|145.2445130|1|9185682|1168081|1796306|2964387|95.9|42.72
+260|Sneydes Rd (WB)|Other Metro Road|Greater Melbourne|-37.8975450|144.7124450|1|1092704|162550|229687|392237|61.0|50.43
+261|Grieve Pde (NB)|Other Metro Road|Greater Melbourne|-37.8441980|144.8248310|1|474013|67152|104654|171806|60.5|57.76
+262|Grieve Pde (SB)|Other Metro Road|Greater Melbourne|-37.8448960|144.8250180|1|552028|50276|166204|216480|64.4|42.86
+263|Dohertys Rd (EB)|Other Metro Road|Greater Melbourne|-37.8311430|144.8229010|1|797069|111100|178621|289721|51.0|55.36
+264|Dohertys Rd (WB)|Other Metro Road|Greater Melbourne|-37.8312110|144.8223920|1|741982|84874|158622|243496|57.9|50.60
+265|PFW 900m west of Duncans Road (IB)|Princes Fwy West|Greater Melbourne|-37.9151950|144.6708600|1|3847229|435991|813876|1249867|98.5|22.04
+266|PFW 240m East of Duncans Road (IB)|Princes Fwy West|Greater Melbourne|-37.9129940|144.6773270|1|3169170|347959|672632|1020591|98.7|18.39
+267|PFW 640m East of Duncans Road (IB)|Princes Fwy West|Greater Melbourne|-37.9094280|144.6879080|1|4357188|480098|926103|1406201|97.5|29.99
+268|PFW 1230m East of Duncans Road (IB)|Princes Fwy West|Greater Melbourne|-37.9073510|144.6936820|0|4126737|447016|886455|1333471|98.1|26.11
+269|PFW 780m West of Sneydes Road (IB)|Princes Fwy West|Greater Melbourne|-37.9025750|144.7006470|1|4360600|480162|927405|1407567|97.7|29.22
+27|M1 Outbound - After Heatherton Rd|M1 Monash/West Gate Fwy|Greater Melbourne|-37.9815830|145.2449310|0|6567388|669132|1386587|2055719|84.9|67.54
+270|PFW 200m West of Sneydes Road (IB)|Princes Fwy West|Greater Melbourne|-37.8994361|144.7052020|1|4090467|440895|859150|1300045|98.0|25.20
+273|PFW 380m East of Sneydes Road (IB)|Princes Fwy West|Greater Melbourne|-37.8949150|144.7083930|1|4090434|440494|859502|1299996|97.8|26.44
+276|PFW 1490m East of Sneydes Road (IB)|Princes Fwy West|Greater Melbourne|-37.8851690|144.7088300|1|3814710|407422|800143|1207565|96.3|31.95
+279|PFW 2290 West of Forsyth Road (IB)|Princes Fwy West|Greater Melbourne|-37.8799670|144.7118090|1|3912178|415110|814950|1230060|95.7|30.39
+28|M1 Inbound - Above Kidds Rd|M1 Monash/West Gate Fwy|Greater Melbourne|-37.9878730|145.2510980|1|5658717|712718|1057133|1769851|94.8|44.98
+280|PFW 1510m West of Forsyth Road (IB)|Princes Fwy West|Greater Melbourne|-37.8775350|144.7194790|1|5890115|598374|1189620|1787994|93.2|46.66
+281|PFW 870m West of Forsyth Road IB|Princes Fwy West|Greater Melbourne|-37.8756550|144.7269990|1|6268426|658826|1268240|1927066|91.6|51.13
+282|PFW 210m West of Forsyth Road (IB)|Princes Fwy West|Greater Melbourne|-37.8736400|144.7350270|1|5537736|589279|1098119|1687398|90.2|54.50
+283|PFW 220m East of Forsyth Road (IB)|Princes Fwy West|Greater Melbourne|-37.8727180|144.7387380|1|5678064|603365|1139560|1742925|89.8|54.13
+287|PFW 420m West of Point Cook Road (IB)|Princes Fwy West|Greater Melbourne|-37.8692317|144.7553920|0|5384063|542120|1062379|1604499|88.9|60.72
+288|PFW 510m West of High Street/Newland St (IB)|Princes Fwy West|Greater Melbourne|-37.8679060|144.7688010|0|7579671|875034|1449379|2324413|85.6|54.47
+289|PFW Between High Street/Newland St Entry Exit Ramps (IB)|Princes Fwy West|Greater Melbourne|-37.8664021|144.7740038|1|7570067|892887|1427238|2320125|86.0|54.51
+29|M1 Outbound - Just Past Sth Gippy Exit Ramp|M1 Monash/West Gate Fwy|Greater Melbourne|-37.9877260|145.2513130|0|2650451|219306|620502|839808|93.4|51.26
+292|PFW 1280m West of Kororoit Creek Road (IB)|Princes Fwy West|Greater Melbourne|-37.8536870|144.7788040|1|7792879|928006|1460101|2388107|88.8|66.29
+293|PFW 640m West of Kororoit Creek Road (IB)|Princes Fwy West|Greater Melbourne|-37.8480840|144.7802910|1|7308822|869332|1400285|2269617|87.9|67.13
+3|M1 Outbound - Eastlink Interchange|M1 Monash/West Gate Fwy|Greater Melbourne|-37.9435570|145.2030380|1|6401406|609480|1377490|1986970|90.0|57.76
+30|M1 Inbound - South Gippsland fwy off ramp|M1 Monash/West Gate Fwy|Greater Melbourne|-37.9928160|145.2575450|1|5659162|712622|1057079|1769701|95.4|43.51
+306|PFW 810m East of Sneydes Road (IB)|Princes Fwy West|Greater Melbourne|-37.8909786|144.7098037|1|4414635|487543|924226|1411769|96.2|35.94
+309|PFW 160m East of Point Cook Road, near Aviation Road IB Entry (IB)|Princes Fwy West|Greater Melbourne|-37.8686060|144.7614900|0|6584963|768134|1272740|2040874|87.7|68.10
+31|M1 Outbound - Before Belgrave-Hallam Rd Exit|M1 Monash/West Gate Fwy|Greater Melbourne|-37.9925010|145.2577820|0|3950647|370168|884234|1254402|90.3|54.78
+310|PFW 310m East of High Street/Newland St Entry Exit Ramps (IB)|Princes Fwy West|Greater Melbourne|-37.8641520|144.7760550|1|7378248|838954|1392260|2231214|88.8|63.17
+311|PFW 780m East of High Street/Newland St Entry Exit Ramps (IB)|Princes Fwy West|Greater Melbourne|-37.8602520|144.7772350|1|7797068|925577|1462959|2388536|89.2|62.88
+312|PFW 125m East of Kororoit Creek Road (IB)|Princes Fwy West|Greater Melbourne|-37.8438780|144.7860050|1|5805120|637353|1136813|1774166|87.3|62.76
+313|PFW 900m west of Duncans Road (OB)|Princes Fwy West|Greater Melbourne|-37.9155480|144.6711930|1|3689439|385582|880569|1266151|99.9|49.52
+314|PFW 240m East of Duncans Road (OB)|Princes Fwy West|Greater Melbourne|-37.9134080|144.6775030|1|3578012|374966|845958|1220924|98.8|19.02
+315|PFW 640m East of Duncans Road (OB)|Princes Fwy West|Greater Melbourne|-37.9097750|144.6881140|1|4115747|413785|974554|1388339|96.2|33.96
+316|PFW 1230m East of Duncans Road (OB)|Princes Fwy West|Greater Melbourne|-37.9076400|144.6940700|1|4096223|414390|971550|1385940|96.9|29.71
+317|PFW 780m West of Sneydes Road (OB)|Princes Fwy West|Greater Melbourne|-37.9028920|144.7009790|1|4118438|414660|974711|1389371|96.6|32.38
+318|PFW 200m West of Sneydes Road (OB)|Princes Fwy West|Greater Melbourne|-37.8996159|144.7056493|1|3733409|364511|879236|1243747|97.4|26.17
+319|PFW 380m East of Sneydes Road (OB)|Princes Fwy West|Greater Melbourne|-37.8950220|144.7088940|1|3698146|364140|876725|1240865|98.5|19.22
+32|M1 Inbound - After Belgrave-Hallam Rd|M1 Monash/West Gate Fwy|Greater Melbourne|-37.9954420|145.2656170|1|6711184|832866|1260592|2093458|91.1|61.77
+320|PFW 810m East of Sneydes Road (OB)|Princes Fwy West|Greater Melbourne|-37.8909658|144.7102447|1|3310767|314777|793725|1108502|97.3|25.14
+321|PFW 1490m East of Sneydes Road (OB)|Princes Fwy West|Greater Melbourne|-37.8852930|144.7094810|1|3626996|308749|916597|1225346|98.1|19.42
+322|PFW 2290 West of Forsyth Road (OB)|Princes Fwy West|Greater Melbourne|-37.8802640|144.7124020|1|3638544|368028|760824|1128852|97.4|23.73
+323|PFW 1510m West of Forsyth Road (OB)|Princes Fwy West|Greater Melbourne|-37.8778460|144.7203310|1|6341265|613691|1496422|2110113|94.4|45.57
+324|PFW 870m West of Forsyth Road (OB)|Princes Fwy West|Greater Melbourne|-37.8761200|144.7272240|1|6340143|614299|1496559|2110858|96.8|34.35
+325|PFW 210m West of Forsyth Road (OB)|Princes Fwy West|Greater Melbourne|-37.8740730|144.7352210|1|5582403|540429|1289311|1829740|95.3|43.59
+326|PFW 220m East of Forsyth Road (OB)|Princes Fwy West|Greater Melbourne|-37.8730420|144.7391930|1|5542207|540823|1265698|1806521|93.5|25.92
+327|PFW 290 West of Palmers Road (OB)|Princes Fwy West|Greater Melbourne|-37.8704920|144.7496710|1|5801523|555610|1308770|1864380|92.4|37.04
+328|PFW 420m West of Point Cook Road (OB)|Princes Fwy West|Greater Melbourne|-37.8696395|144.7553888|0|6619739|605201|1549016|2154217|86.3|50.97
+33|M1 Outbound - Before Belgrave Hallam Rd|M1 Monash/West Gate Fwy|Greater Melbourne|-37.9951390|145.2657630|1|5183008|471432|1167527|1638959|90.9|58.93
+330|PFW 510m West of High Street/Newland St (OB)|Princes Fwy West|Greater Melbourne|-37.8683200|144.7688690|1|7658971|695204|1770228|2465432|85.6|61.06
+331|PFW Between High Street/Newland St Entry Exit Ramps (OB)|Princes Fwy West|Greater Melbourne|-37.8666837|144.7742592|1|6641034|610483|1439086|2049569|88.5|62.70
+332|PFW 310m East of High Street/Newland St Entry Exit Ramps (OB)|Princes Fwy West|Greater Melbourne|-37.8643645|144.7765450|1|7284556|642585|1624804|2267389|88.7|67.78
+333|PFW 780m East of High Street/Newland St Entry Exit Ramps (OB)|Princes Fwy West|Greater Melbourne|-37.8603190|144.7777180|1|7575715|661084|1746417|2407501|88.5|70.61
+334|PFW 1280m West of Kororoit Creek Road (OB)|Princes Fwy West|Greater Melbourne|-37.8537220|144.7793060|1|7606668|670567|1746884|2417451|90.4|62.71
+335|PFW 640m West of Kororoit Creek Road (OB)|Princes Fwy West|Greater Melbourne|-37.8482310|144.7808230|1|7515200|659414|1729883|2389297|88.6|64.29
+336|PFW 125m East of Kororoit Creek Road (OB)|Princes Fwy West|Greater Melbourne|-37.8442996|144.7863319|1|6224281|575539|1335819|1911358|89.7|65.45
+337|M1 Inbound - CH 960 (FDS01b)|M1 Monash/West Gate Fwy|Greater Melbourne|-38.0915330|145.4721010|1|2478369|254726|571587|826313|97.6|26.59
+338|M1 Outbound - CH 960 (FDS01a)|M1 Monash/West Gate Fwy|Greater Melbourne|-38.0911440|145.4720940|1|2314862|255801|520368|776169|98.0|23.82
+339|M1 Inbound - CH 1460 (FDS02b)|M1 Monash/West Gate Fwy|Greater Melbourne|-38.0919170|145.4776170|1|2611162|264848|608566|873414|97.9|24.55
+34|M1 Inbound - Belgrave Hallam Rd on ramp|M1 Monash/West Gate Fwy|Greater Melbourne|-37.9972300|145.2713200|1|6146568|761241|1154710|1915951|94.5|43.95
+340|M1 Outbound - CH 1460 (FDS02a)|M1 Monash/West Gate Fwy|Greater Melbourne|-38.0915160|145.4776060|1|2467471|276944|551556|828500|99.5|15.64
+35|M1 Outbound - Belgrave Hallam off ramp|M1 Monash/West Gate Fwy|Greater Melbourne|-37.9969210|145.2714550|1|4917134|442674|1118393|1561067|89.7|60.16
+36|M1 Inbound - Past Belgrave Hallam Rd|M1 Monash/West Gate Fwy|Greater Melbourne|-37.9983730|145.2784640|1|6149805|761788|1154740|1916528|90.6|63.13
+39|M1 Outbound - Belgrave-Hallam Rd on ramp|M1 Monash/West Gate Fwy|Greater Melbourne|-37.9980800|145.2784520|1|4923924|442356|1118994|1561350|88.9|62.55
+4|M1 Inbound - Eastlink Interchange|M1 Monash/West Gate Fwy|Greater Melbourne|-37.9470700|145.2068840|0|5855064|691876|1096018|1787894|95.7|35.05
+40|M1 Inbound - Before Belgrave Hallam Rd Exit Ramp|M1 Monash/West Gate Fwy|Greater Melbourne|-37.9989550|145.2822550|1|6675404|803666|1276040|2079706|87.1|56.18
+41|M1 Outbound - Before Ernst Wanke exit|M1 Monash/West Gate Fwy|Greater Melbourne|-37.9985720|145.2823920|0|5410648|484193|1235078|1719271|88.8|69.43
+42|M1 Inbound - Ernst Wanke Rd Entry Ramp|M1 Monash/West Gate Fwy|Greater Melbourne|-38.0001740|145.2907080|1|6056090|714420|1168962|1883382|88.5|59.27
+43|M1 Outbound - Ernst Wanke Rd Off Ramp|M1 Monash/West Gate Fwy|Greater Melbourne|-37.9999000|145.2908260|1|5412128|494149|1241211|1735360|94.2|54.90
+44|M1 Inbound - Before Ernst Wanke Rd|M1 Monash/West Gate Fwy|Greater Melbourne|-38.0027020|145.2960420|1|6017787|703768|1168478|1872246|90.7|53.81
+45|M1 Outbound - After Ernst Wanke Rd|M1 Monash/West Gate Fwy|Greater Melbourne|-38.0025230|145.2962990|1|5472668|503435|1248221|1751656|94.8|45.20
+46|M1 Inbound - After Narre Warren Rd entry ramp|M1 Monash/West Gate Fwy|Greater Melbourne|-38.0129420|145.3031630|1|5938199|705290|1136625|1841915|90.3|53.93
+47|M1 Outbound - Before Narre Warren North Rd Off Ramp|M1 Monash/West Gate Fwy|Greater Melbourne|-38.0128040|145.3034970|1|5471181|502307|1246682|1748989|94.6|48.01
+48|M1 Inbound - Narre Warren Nth Rd Entry Ramp Bullnose|M1 Monash/West Gate Fwy|Greater Melbourne|-38.0164390|145.3068900|1|5110221|619713|973740|1593453|92.3|42.35
+49|M1 Outbound - Just Past Narre Warren Nth Rd Exit Ramp|M1 Monash/West Gate Fwy|Greater Melbourne|-38.0162050|145.3071560|1|4225804|384183|990383|1374566|93.7|50.47
+5|M1 Outbound - Eastlink Interchange|M1 Monash/West Gate Fwy|Greater Melbourne|-37.9467190|145.2072800|0|6332235|600861|1360970|1961831|90.7|56.31
+50|M1 Inbound - Narre Warren Nth Rd Exit Ramp Bullnose|M1 Monash/West Gate Fwy|Greater Melbourne|-38.0191400|145.3101910|1|5115214|619479|973921|1593400|92.3|46.91
+504|M1 West Gate Bridge Inbound (EB)|M1 Monash/West Gate Fwy|Greater Melbourne|-37.8309000|144.9005010|0|5091890|628757|925269|1554026|69.5|59.82
+505|M1 West Gate Bridge Outbound (WB)|M1 Monash/West Gate Fwy|Greater Melbourne|-37.8308150|144.9003290|1|8006596|761233|1686823|2448056|69.0|49.77
+51|M1 Outbound - Narre Warren Nth Rd Entry Ramp Bullnose|M1 Monash/West Gate Fwy|Greater Melbourne|-38.0189380|145.3104550|1|4611502|430015|1060349|1490364|92.5|52.84
+52|M1 Inbound - Just Prior Narre Warren Nth Rd Exit Ramp|M1 Monash/West Gate Fwy|Greater Melbourne|-38.0225730|145.3143500|1|5829505|685772|1128203|1813975|89.6|58.73
+53|M1 Outbound - Just After Narre Warren Nth Rd Entry Ramp|M1 Monash/West Gate Fwy|Greater Melbourne|-38.0223380|145.3146170|1|5405266|484945|1295993|1780938|92.0|60.91
+530|M31 Hume Fwy and Cooper St (NB)|Regional Freeway/Highway|Regional Victoria|-37.6529380|144.9894120|0|2657489|327142|434524|761666|90.2|65.64
+531|M31 Hume Fwy and Cooper St (SB)|Regional Freeway/Highway|Regional Victoria|-37.6529950|144.9899420|0|2815208|380010|463586|843596|80.8|73.65
+54|M1 Inbound - Princes Hwy Entry Ramp Bullnose|M1 Monash/West Gate Fwy|Greater Melbourne|-38.0267090|145.3192320|1|5152186|618842|980872|1599714|92.4|47.10
+55|M1 Outbound - Princes Hwy Exit Ramp Bullnose|M1 Monash/West Gate Fwy|Greater Melbourne|-38.0265210|145.3194970|1|4726057|408193|1172063|1580256|96.7|39.76
+555|M8 Western Fwy - Ballan Inbound (EB)|Regional Freeway/Highway|Regional Victoria|-37.5906950|144.1816100|0|1054962|88174|271189|359363|104.9|40.61
+556|M8 Western Fwy - Ballan Outbound (WB)|Regional Freeway/Highway|Regional Victoria|-37.5911140|144.1824560|0|1051715|140718|199972|340690|104.7|40.05
+56|M1 Inbound - Princes HWY Exit Ramp Bullnose|M1 Monash/West Gate Fwy|Greater Melbourne|-38.0303170|145.3227850|1|5153877|618704|981163|1599867|93.1|45.80
+563|WGT - Inbound Main Carriageway|West Gate|Greater Melbourne|-37.8293284|144.8151718|0|2943875|369417|547499|916916|90.4|46.75
+564|WGT - Inbound Main Carriageway|West Gate|Greater Melbourne|-37.8264326|144.8194173|1|2873187|335834|529172|865006|92.9|50.40
+565|WGT - Inbound Main Carriageway|West Gate|Greater Melbourne|-37.8255035|144.8247752|1|5238600|595698|954050|1549748|88.1|50.35
+566|WGT - Inbound Main Carriageway|West Gate|Greater Melbourne|-37.8254895|144.8280208|1|5245597|599524|957877|1557401|88.7|45.72
+567|WGT - Inbound Main Carriageway|West Gate|Greater Melbourne|-37.8314853|144.8119538|1|6818142|787680|1302849|2090529|89.5|53.57
+568|WGT - Inbound M80 Ring Rd to Eastbound Main Carriageway|West Gate|Greater Melbourne|-37.8256941|144.8208162|1|2403248|268600|430811|699411|85.4|52.17
+569|A1 Princes Hwy - Lindenow South Westbound|Regional Freeway/Highway|Regional Victoria|-37.8780990|147.4359610|1|331132|34093|70332|104425|97.4|20.56
+57|M1 Outbound - Princes HWY On Ramp Bullnose|M1 Monash/West Gate Fwy|Greater Melbourne|-38.0301520|145.3230660|1|4660312|406339|1147220|1553559|94.5|49.31
+570|A1 Princes Hwy - Lindenow South Eastbound|Regional Freeway/Highway|Regional Victoria|-37.8781350|147.4350890|1|314327|33124|72016|105140|97.0|24.46
+58|M1 Inbound - Pakenham Rail Bridge|M1 Monash/West Gate Fwy|Greater Melbourne|-38.0339320|145.3261210|0|4829723|531433|1000951|1532384|93.5|46.95
+580|M1 Monash Hwy - Stanley Outbound|M1 Monash/West Gate Fwy|Greater Melbourne|-37.8889761|145.1151279|1|9141050|977392|1903009|2880401|91.7|61.00
+581|M1 Monash Fwy - Stanley Inbound|M1 Monash/West Gate Fwy|Greater Melbourne|-37.8899699|145.1158842|0|8665539|929019|1804058|2733077|84.0|61.38
+59|M1 Outbound - Pakenham Rail Bridge (THIN transmitter)|M1 Monash/West Gate Fwy|Greater Melbourne|-38.0338860|145.3262730|1|5479614|460893|1390633|1851526|89.9|49.92
+6|M1 Inbound - Before Police Rd Exit Ramp|M1 Monash/West Gate Fwy|Greater Melbourne|-37.9503640|145.2113820|0|7916049|1025771|1526585|2552356|92.2|54.83
+60|M1 Inbound - Warrigul Side of Pakenham Rail Bridge (CH 43920)|M1 Monash/West Gate Fwy|Greater Melbourne|-38.0379550|145.3297900|0|2799874|342543|535651|878194|94.2|41.77
+61|M1 Outbound - Far Side of Pakenham Rail Bridge|M1 Monash/West Gate Fwy|Greater Melbourne|-38.0377330|145.3301730|1|4949112|423875|1238311|1662186|93.8|46.77
+62|M1 Inbound - After Clyde Rd Entry Ramp|M1 Monash/West Gate Fwy|Greater Melbourne|-38.0408990|145.3331160|1|5431359|681595|1021486|1703081|91.7|61.08
+63|M1 Outbound - Before Clyde Rd Exit Ramp (CH 44360)|M1 Monash/West Gate Fwy|Greater Melbourne|-38.0406640|145.3334470|1|5494003|463533|1392344|1855877|90.5|38.79
+64|M1 Inbound - Clyde Rd Entry Ramp Bullnose (CH 44970)|M1 Monash/West Gate Fwy|Greater Melbourne|-38.0440470|145.3388210|0|276670|36491|53102|89593|91.3|65.34
+65|M1 Outbound - Clyde Rd Exit Ramp Bullnose (CH 44950)|M1 Monash/West Gate Fwy|Greater Melbourne|-38.0436690|145.3388140|1|3730395|327338|945270|1272608|83.1|47.59
+66|M1 Inbound - Clyde Rd Exit Bullnose (CH 45490)|M1 Monash/West Gate Fwy|Greater Melbourne|-38.0464320|145.3438460|1|3906468|495438|755376|1250814|86.8|49.36
+67|M1 Outbound - Clyde Rd Entry Ramp (CH 45470)|M1 Monash/West Gate Fwy|Greater Melbourne|-38.0460460|145.3438960|1|2907720|253166|758696|1011862|86.4|51.09
+68|M1 Inbound - Before Clyde Rd exit (CH 45900)|M1 Monash/West Gate Fwy|Greater Melbourne|-38.0481770|145.3479730|1|4845078|636314|924162|1560476|88.4|54.52
+69|M1 Outbound - First after Clyde Rd entry|M1 Monash/West Gate Fwy|Greater Melbourne|-38.0478570|145.3481790|0|69715|3098|26643|29741|90.1|49.80
+7|M1 Outbound - Before Stud Rd Exit Ramp|M1 Monash/West Gate Fwy|Greater Melbourne|-37.9500360|145.2118140|0|7467937|747849|1633330|2381179|89.4|63.10
+70|M1 Inbound - Past Soldiers Rd Overpass (Ch 46450)|M1 Monash/West Gate Fwy|Greater Melbourne|-38.0501200|145.3538350|1|4841416|636972|919199|1556171|91.1|43.08
+71|M1 Outbound - Second after Clyde Rd entry (Ch 46450)|M1 Monash/West Gate Fwy|Greater Melbourne|-38.0497070|145.3540490|1|4663018|392362|1180197|1572559|94.3|47.18
+72|M1 Inbound - Soldiers Rd Overpass (CH 46870)|M1 Monash/West Gate Fwy|Greater Melbourne|-38.0518550|145.3580300|1|4820548|633255|919558|1552813|91.3|40.43
+73|M1 Outbound - First after Soldiers Rd overpass|M1 Monash/West Gate Fwy|Greater Melbourne|-38.0515860|145.3583230|1|4291283|338724|1130553|1469277|98.6|23.00
+74|M1 Inbound - Before Soldiers Rd|M1 Monash/West Gate Fwy|Greater Melbourne|-38.0555370|145.3630140|1|4800768|634115|919139|1553254|95.9|36.89
+75|M1 Outbound - 2nd unit after Soldiers Rd (CH 47470)|M1 Monash/West Gate Fwy|Greater Melbourne|-38.0553330|145.3633870|1|4659212|390163|1180071|1570234|98.1|26.03
+76|M1 Inbound - On Princes Hwy entry|M1 Monash/West Gate Fwy|Greater Melbourne|-38.0596800|145.3672420|1|3568748|455794|702069|1157863|96.5|33.85
+77|M1 Outbound - after Princes Hwy exit (CH 48050)|M1 Monash/West Gate Fwy|Greater Melbourne|-38.0593420|145.3674210|0|2018646|185136|505526|690662|100.1|16.57
+8|M1 Inbound - After Brady Rd|M1 Monash/West Gate Fwy|Greater Melbourne|-37.9526830|145.2147740|1|7991264|1039326|1544198|2583524|92.7|51.14
+82|M1 Inbound - Just Before Cardinia Creek (CH 49815)|M1 Monash/West Gate Fwy|Greater Melbourne|-38.0696180|145.3827140|1|4528578|564231|932894|1497125|96.6|35.62
+83|M1 Inbound - outside BP petrol station (CH 50433)|M1 Monash/West Gate Fwy|Greater Melbourne|-38.0719700|145.3891340|1|4042922|507661|844650|1352311|97.9|28.26
+84|M1 Outbound - outside BP petrol station (CH 50432)|M1 Monash/West Gate Fwy|Greater Melbourne|-38.0716410|145.3892300|1|3923264|382323|976230|1358553|98.9|25.05
+85|M1 Inbound - fifth from Cardinia entry (CH 51095)|M1 Monash/West Gate Fwy|Greater Melbourne|-38.0737110|145.3963160|1|4518655|563585|926401|1489986|97.7|29.97
+86|M1 Inbound - fourth from Cardinia entry (CH 51794)|M1 Monash/West Gate Fwy|Greater Melbourne|-38.0749280|145.4041310|0|3848180|463179|802540|1265719|98.3|24.66
+87|M1 Inbound - third from Cardinia entry (CH 52296)|M1 Monash/West Gate Fwy|Greater Melbourne|-38.0756520|145.4097480|1|4032905|493633|840247|1333880|98.4|22.97
+89|M1 Inbound - After Cardinia Rd Entry (CH 53510)|M1 Monash/West Gate Fwy|Greater Melbourne|-38.0775870|145.4234140|1|4042340|493739|839228|1332967|99.0|21.03
+9|M1 Outbound - McGregor entry|M1 Monash/West Gate Fwy|Greater Melbourne|-37.9523470|145.2151440|1|7560817|758717|1658719|2417436|91.3|53.08
+90|M1 Outbound - before Cardinia exit (CH 53510)|M1 Monash/West Gate Fwy|Greater Melbourne|-38.0773130|145.4235270|1|3967137|391975|954628|1346603|96.9|35.10
+91|M1 Inbound - Cardinia Rd (CH 54204)|M1 Monash/West Gate Fwy|Greater Melbourne|-38.0789500|145.4311180|1|3082947|346087|672879|1018966|97.7|29.33
+92|M1 Outbound - Cardinia Rd (CH 54189)|M1 Monash/West Gate Fwy|Greater Melbourne|-38.0785740|145.4310780|1|2906047|309414|665503|974917|96.5|35.02
+93|M1 Inbound - PCM14168 Before Cardinia Rd Exit|M1 Monash/West Gate Fwy|Greater Melbourne|-38.0827610|145.4440560|1|3347620|370800|750552|1121352|97.5|30.87
+94|M1 Inbound - RCB25162 After Toomuc Creek|M1 Monash/West Gate Fwy|Greater Melbourne|-38.0851510|145.4496110|1|3334450|370764|741798|1112562|96.3|38.65
+96|M1 Inbound - after McGregor Rd Entry|M1 Monash/West Gate Fwy|Greater Melbourne|-38.0894800|145.4611160|1|3347297|370829|749615|1120444|95.8|40.01
+98|M1 Inbound - McGregor entry|M1 Monash/West Gate Fwy|Greater Melbourne|-38.0909440|145.4677910|0|1160279|64382|361565|425947|98.6|56.52
+99|M1 Outbound - RCB1413 McGregor Rd Exit Bullnose|M1 Monash/West Gate Fwy|Greater Melbourne|-38.0906380|145.4678900|0|2176832|239470|487320|726790|97.5|27.77

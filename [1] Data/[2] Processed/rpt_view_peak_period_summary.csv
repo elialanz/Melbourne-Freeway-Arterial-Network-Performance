@@ -1,0 +1,16 @@
+period_type|day_class|total_volume|wtd_avg_speed
+AM Peak|Public Holiday|5827707|95.0
+Early AM Build-up|Public Holiday|2038048|94.8
+Inter-peak|Public Holiday|38845509|93.4
+Off-peak|Public Holiday|27896404|94.2
+PM Peak|Public Holiday|19282968|94.0
+AM Peak|Weekday|130741045|84.4
+Early AM Build-up|Weekday|59215215|83.8
+Inter-peak|Weekday|367881830|90.4
+Off-peak|Weekday|279599606|92.8
+PM Peak|Weekday|221998942|84.6
+AM Peak|Weekend|24184705|95.2
+Early AM Build-up|Weekend|8077652|95.4
+Inter-peak|Weekend|140108055|92.6
+Off-peak|Weekend|95978114|93.9
+PM Peak|Weekend|70745512|92.9

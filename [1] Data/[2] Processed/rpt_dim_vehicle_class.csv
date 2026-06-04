@@ -1,0 +1,16 @@
+vehicle_class|class_description|vehicle_group|is_heavy|sort_order
+0|Unclassified (detector could not categorise)|Unclassified|0|0
+1|Short (Cars, motorcycles)|Light|0|1
+2|Short towing (Car + trailer)|Light|0|2
+3|Two-axle truck or bus|Light Commercial|0|3
+4|Three-axle truck or bus|Heavy|1|4
+5|Four-axle truck|Heavy|1|5
+6|Three-axle articulated|Heavy|1|6
+7|Four-axle articulated|Heavy|1|7
+8|Five-axle articulated|Heavy|1|8
+9|Six-axle articulated|Heavy|1|9
+10|B-double|Heavy|1|10
+11|Double road train|Heavy|1|11
+12|Triple road train|Heavy|1|12
+13|Heavy (other)|Heavy|1|13
+14|Heavy (other)|Heavy|1|14
