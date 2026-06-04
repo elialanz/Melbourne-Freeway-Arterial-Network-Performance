@@ -1,7 +1,9 @@
 # Melbourne Freeway & Arterial Network
 ### Operational Performance & Congestion Dashboard
 
-A SQL and Power BI reporting project that shows transport operations teams **where and when** Melbourne's freeways and major arterial roads run under the most pressure — so monitoring, planning, and response effort can be pointed where it matters most.
+MSSSQL and Power BI Reporting Project.
+This Project shows transport operations teams **where and when** Melbourne's freeways and major arterial roads run under the most pressure.
+It facilitates monitoring, planning, and response with the goal of point actions where it matters most.
 
 > **View the dashboard:** download the Power BI file (.pbix) from Google Drive — *requires Power BI Desktop (free, Windows)*: `PASTE GOOGLE DRIVE LINK HERE`
 > Prefer a quick look? Screenshots of all four pages are at the bottom.
