@@ -77,19 +77,19 @@ README.md       this file
 
 **1. Executive Overview**
 
-![Executive Overview](./[4]%20Screenshots/01_executive_overview1.png)
+![Executive Overview](./[4]%20Screenshots/01_executive_overview.png)
 
 **2. Site & Direction Performance**
 
-![Site and Direction Performance](./[4]%20Screenshots/02_site_and_direction1.png)
+![Site and Direction Performance](./[4]%20Screenshots/02_site_and_direction.png)
 
 **3. Peak Period & Operational Pressure**
 
-![Peak Period and Operational Pressure](./[4]%20Screenshots/03_peak_period_pressure1.png)
+![Peak Period and Operational Pressure](./[4]%20Screenshots/03_peak_period_pressure.png)
 
 **4. Recommendations & Data Confidence**
 
-![Recommendations and Data Confidence](./[4]%20Screenshots/04_recommendations1.png)
+![Recommendations and Data Confidence](./[4]%20Screenshots/04_recommendations.png)
 
 ---
 
